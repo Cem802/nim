@@ -47,3 +47,7 @@ The robot updates the Q-value for the state-action pair (S, A) using the Q-learn
 The robot repeats steps 1-3 for a number of episodes, gradually learning the Q-values for each state-action pair.
 
 Over time, the Q-values will converge to the true values, and the robot will learn to choose the actions that lead to the goal.
+
+## Run locally
+
+Clone the repository in you local machine and execute the play.py file. You can then, after the AI stops learning, play the game in the console.
